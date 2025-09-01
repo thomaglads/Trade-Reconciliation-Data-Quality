@@ -1,0 +1,21 @@
+trade_id,break_reason,fo_ticker,bo_ticker,fo_quantity,bo_quantity,fo_price,bo_price,fo_settlement_date,bo_settlement_date
+7,Quantity Mismatch,TSLA,TSLA,-3612.4,-3284.0,428.71,428.71,2025-08-18,2025-08-18
+9,Settlement Date Mismatch,AMZN,AMZN,-3289.0,-3289.0,303.25,303.25,2025-08-16,2025-08-17
+17,Settlement Date Mismatch,MSFT,MSFT,-634.0,-634.0,150.18,150.18,2025-08-03,2025-08-04
+21,Missing in Back Office,V,,-2128.0,,297.94,,2025-08-09,
+30,Missing in Back Office,JNJ,,4053.0,,488.94,,2025-08-06,
+43,Settlement Date Mismatch,V,V,1828.0,1828.0,406.41,406.41,2025-08-03,2025-08-04
+78,Missing in Back Office,GOOGL,,2396.0,,402.05,,2025-08-07,
+80,Quantity Mismatch,AMZN,AMZN,5274.5,4795.0,356.64,356.64,2025-08-17,2025-08-17
+90,Missing in Back Office,WMT,,-2972.0,,418.47,,2025-08-17,
+93,Quantity Mismatch,AMZN,AMZN,4978.6,4526.0,429.29,429.29,2025-08-14,2025-08-14
+101,Missing in Back Office,DIS,,1000.0,,105.5,,2025-08-08,
+102,Missing in Back Office,PFE,,-2500.0,,45.2,,2025-08-09,
+5,Missing in Front Office,,TSLA,,1933.0,,373.8,,2025-08-03
+13,Missing in Front Office,,WMT,,-3756.0,,185.41,,2025-08-13
+58,Missing in Front Office,,V,,4514.0,,332.55,,2025-08-14
+65,Missing in Front Office,,AMZN,,-3898.0,,260.49,,2025-08-15
+95,Missing in Front Office,,JNJ,,-114.0,,247.9,,2025-08-15
+201,Missing in Front Office,,GOOGL,,50.0,,2800.0,,2025-08-11
+202,Missing in Front Office,,TSLA,,-100.0,,750.0,,2025-08-12
+203,Missing in Front Office,,MSFT,,200.0,,300.0,,2025-08-13
