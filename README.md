@@ -11,8 +11,6 @@ The final output is an interactive Power BI dashboard that provides a clear over
 
 ## Dashboard Preview
 
-*(**Action Required:** Replace this section with a screenshot of your Power BI dashboard. You can name the image `dashboard.png` and place it in the root of this project folder.)*
-
 ![Dashboard Screenshot](dashboard.png)
 
 ---
