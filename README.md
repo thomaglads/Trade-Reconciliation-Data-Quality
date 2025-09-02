@@ -10,8 +10,8 @@ The final output is an interactive Power BI dashboard that provides a clear over
 ---
 
 ## Dashboard Preview
+![WhatsApp Image 2025-09-01 at 18 24 59_3c63b078](https://github.com/user-attachments/assets/9f83e0a7-7839-4302-8136-d8164b450682)
 
-![Dashboard Screenshot](dashboard.png)
 
 ---
 
